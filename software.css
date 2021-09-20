@@ -1,0 +1,382 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none !important;
+}
+
+
+.number{
+    color: white;
+    font-size: 12px;
+    margin: 8px 0 0 0;
+    float: right;
+    padding-right: 50px;
+    }
+    
+    .email{
+    float: right;
+    color: white;
+    font-size: 12px;
+    margin: 8px 0 0 0;
+    padding-right: 10px;   
+    }
+    
+    .number1{
+        color: white;
+        font-size: 12px;
+        float: right;
+        margin: 1px -305px 0 0;
+    
+    
+        }
+        
+        .email2{
+        float: right;
+        color: white;
+        font-size: 12px;
+        padding-right: 153px;   
+    
+        }
+        .black{
+            background-color: #e15454;
+            min-height: 60px;
+        }
+        .fa-facebook-f{
+            color: white;
+            margin: 14px 0 0 50px;
+            font-size: 33px;
+        }
+        .icon{
+            list-style: none;
+        }
+
+        .navbar-brand img {
+            height: 130px;
+            width: 223px;
+            margin: -14px 0 0 -30px;
+            border-radius: 25px;
+        }
+.Location{
+    text-align: center;
+    margin-top: 10px;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: black !important;
+    font-size: 15px !important;
+}
+.hardwaretext{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.view-group {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.thumbnail
+{
+    margin-bottom: 30px;
+    padding: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.item.list-group-item
+{
+    float: none;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 30px;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0 1rem;
+    border: 0;
+}
+.item.list-group-item .img-event {
+    float: left;
+    width: 30%;
+}
+
+.item.list-group-item .list-group-image
+{
+    margin-right: 10px;
+}
+.item.list-group-item .thumbnail
+{
+    margin-bottom: 0px;
+    display: inline-block;
+}
+.item.list-group-item .caption
+{
+    float: left;
+    width: 70%;
+    margin: 0;
+}
+
+.item.list-group-item:before, .item.list-group-item:after
+{
+    display: table;
+    content: " ";
+}
+
+.item.list-group-item:after
+{
+    clear: both;
+}
+.imagebox{
+    align-items: center;
+}
+
+.imagebox img{
+    float: left;
+    height: 371px;
+    width: 550px;
+    margin: 21px 0 0 140px;
+
+}
+.imagebox2 img{
+    float: right;
+    height: 371px;
+    width: 600px;
+    margin: 21px 150px 0 0;
+}  
+.hardwaretext {
+    width: 696px;
+    margin: 0 auto;
+    margin-top: 55px;
+}
+.hardwaretext li{
+    text-align: left;
+    float: left;
+}
+.blacks img{
+    height: 400px;
+    width: 400px;
+    margin: 0 0 0 74px;
+}
+.comond img{
+    height: 400px;
+    width: 472px;
+}
+.news img{
+    height: 400px;
+    width: 400px;
+}
+.comond2 img{
+    height: 438px;
+    width: 485px;
+    margin: -16px 0 0 0px;
+}
+
+
+
+
+/*.................................................... landing page */
+
+
+.navbar-brand {
+  color: white !important;
+  font-size: 40px !important;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    background-color: white !important;
+  
+}
+
+
+
+.content h1{
+    font-size: 44px;
+    font-weight: 700;
+    padding-top: 120px;
+    color: black;
+    text-align: center;
+
+}
+
+
+
+/*.................................................... landing page  end */
+
+
+/*...............................................................  map start..... */
+
+
+
+.fotterend{
+    background-color: black;
+    height: auto;
+}
+.company{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    list-style: none;
+    margin-left: -28px;
+
+}
+.menu ul li{
+    list-style: none;
+    margin-top: 10px;
+
+}
+.menu ul li a{
+    color: #8a919e;
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: -24px;
+    
+}
+.round{
+    width: 60px;
+    height: 60px;
+    left: -5%;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -15%;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+
+}
+
+.fottersenter{
+    padding: 100px 0px 25px 0;
+}
+hr{
+    background-color: #8a919e;
+    width: 100%;
+}
+
+.about a {
+    font-size: 12px;
+    color: #8a919e !important;
+    font-weight: 300;
+}
+.about{
+    display: inline-block;
+}
+.colyright{
+    font-size: 12px;
+    color: #8a919e;
+    font-weight: 300;  
+    
+}
+.margintop{
+    margin-top: -4px;
+}
+
+.fa-facebook-square{
+    font-size: 20px;
+}
+.fa-twitter-square{
+    font-size: 20px;
+
+}
+.fa-behance-square{
+    font-size: 20px;
+
+}
+/* ........................................................ footer end........................... */
+
+
+.dropbtn {
+    color: black;
+    padding: 7px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+ 
+
+
+/* .....................................midea queri.......................... */
+
+@media screen and (max-width: 765px) {
+    .fa-facebook-f {
+        color: white;
+        margin: 8px 0 0 110px;
+        font-size: 15px;
+    }
+    .fa-twitter {
+        font-size: 15px;  
+    }
+    .fa-behance{
+        font-size: 15px;  
+ 
+    }
+   
+
+
+    .send-msg {
+        color: white;
+        padding: 10px 38px 10px 38px;
+        background-color: black;
+        float: left;
+        font-size: 14px;
+        margin: 25px 0 0 143px;
+    }
+  
+    
+    
+  
+}

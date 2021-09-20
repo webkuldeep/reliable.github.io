@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none !important;
+}
+.navbar-brand img {
+    height: 130px;
+    width: 223px;
+    margin: -14px 0 0 -30px;
+    border-radius: 25px;
+}
+.fa-bars{
+    color: white;
+    font-size: 29px;
+}
+.black{
+    background-color: #e15454;
+    min-height: 60px;
+}
+
+.fa-facebook-f {
+    color: white;
+    margin: 16px 0 0 50px;
+    font-size: 33px;
+}
+
+.icon{
+    list-style: none;
+}
+
+
+/* ..................................................................top icon............. */
+
+
+.number{
+color: white;
+font-size: 12px;
+margin: 8px 0 0 0;
+float: right;
+padding-right: 50px;
+}
+
+.email{
+float: right;
+color: white;
+font-size: 12px;
+margin: 10px 0 0 0;
+padding-right: 10px;   
+}
+
+
+.number1{
+    color: white;
+    font-size: 12px;
+    float: right;
+    margin: 1px -305px 0 0;
+
+
+    }
+    
+    .email2{
+    float: right;
+    color: white;
+    font-size: 12px;
+    padding-right: 153px;   
+
+    }
+
+
+
+/* ...............................................................top icon end ............... */
+/*.................................................... landing page */
+
+
+.navbar-brand {
+  color: white !important;
+  font-size: 40px !important;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: white !important;
+    font-size: 15px !important;
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    background-color: white !important;
+  
+}
+
+.image{
+    height: 100vh;
+    width: 100%;
+     background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/bacground-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner-content h1{
+    font-size: 44px;
+    font-weight: 700;
+    padding-top: 158px;
+    color: #fff;
+
+}
+
+.banner-content p{
+    font-size: 33px;
+    font-weight: 400;
+    color: #fff;
+    padding: 130px 0 0 0;
+    width: 65%;
+
+}
+
+
+.dropbtn {
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content a {
+      color: white;
+      line-height: 13px;
+  }
+
+
+
+
+/* .....................................................................toturium work............... */
+
+
+
+/* .....................................................................toturium work end............... */
+
+
+    /* ...................................................................start fooetr..................... */
+
+  .fotterend{
+    background-color: black;
+    height: auto;
+}
+.company{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    list-style: none;
+    margin-left: -28px;
+
+}
+.menu ul li{
+    list-style: none;
+    margin-top: 10px;
+
+}
+.menu ul li a{
+    color: #8a919e;
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: -24px;
+    
+}
+.round{
+    width: 60px;
+    height: 60px;
+    background-color: #5993fa;
+    left: -5%;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -15%;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+
+}
+
+/* .fottersenter{
+    padding: 100px 0px 25px 0;
+} */
+hr{
+    background-color: #8a919e;
+    width: 100%;
+}
+
+.about a {
+    margin-right: 20px;
+    font-size: 12px;
+    color: #8a919e;
+    font-weight: 300;
+}
+.about{
+    display: inline-block;
+}
+.colyright{
+    font-size: 12px;
+    color: #8a919e;
+    font-weight: 300;  
+    
+}
+.margintop{
+    margin-top: -4px;
+}
+.fa-facebook-square{
+font-size: 20px;
+}
+.fa-twitter-square{
+    font-size: 20px;
+
+}
+.fa-behance-square{
+    font-size: 20px;
+
+}
+
+
+/* ...........................................................................footer end ......... */
+
+
+/* ......................................media quearies........ */
+@media screen and (max-width: 376px) {
+  
+
+
+
+  }
